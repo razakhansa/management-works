@@ -48,7 +48,7 @@ body {
 .input-box input::placeholder{
     color: #fff;
 }
-
+ 
 .wrapper .remember-forgot{
     display: flex;
     justify-content: space-between;
