@@ -36,7 +36,19 @@ nav ul li a {
   size: 50px;
 }
 
+<<<<<<< HEAD
 .npm a {
   font-size: 16px;
   margin-left: 15px;
 }
+=======
+.npm a{
+    font-size: 16px;
+    margin-left: 35px;
+}
+
+.dropdown{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+>>>>>>> f60d55e585fc01500189e1ad784dbc83eff085c0
