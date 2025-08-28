@@ -14,13 +14,8 @@ body {
 }
 
 .wrapper {
-<<<<<<< HEAD
   width: 420px;
   background-color: #000;
-=======
-  width: 440px;
-  background-color: pink;
->>>>>>> b2a42cbdd10ed8e2db46a13a6ab9204436a7e1a2
   color: #fff;
   border-radius: 20px;
   padding: 20px;
