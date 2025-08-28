@@ -14,11 +14,16 @@ body {
 }
 
 .wrapper {
+<<<<<<< HEAD
   width: 420px;
   background-color: #000;
+=======
+  width: 440px;
+  background-color: pink;
+>>>>>>> b2a42cbdd10ed8e2db46a13a6ab9204436a7e1a2
   color: #fff;
   border-radius: 20px;
-  padding: 40px;
+  padding: 20px;
 }
 
 .wrapper h1 {
@@ -98,4 +103,21 @@ body {
 
 .register-link a:hover {
   text-decoration: underline;
+}
+img {
+  /* height: 220px; */
+  width: 220px;
+  size: 50px;
+  margin-left: -75px;
+  margin-bottom: 20%;
+}
+.imgs {
+  /* height: 220px; */
+  /* width: 100px; */
+  size: 50px;
+  margin-left: 30px;
+  margin-top: -200px;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 700;
 }
