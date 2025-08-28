@@ -12,7 +12,7 @@ nav ul {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: skyblue;
+  background-color: #000;
 }
 nav ul li {
   list-style: none;
