@@ -14,13 +14,12 @@ body {
 }
 
 .wrapper {
-  width: 420px;
-  background-color: #000;
+  width: 400px;
+  background-color: black;
   color: #fff;
   border-radius: 20px;
   padding: 20px;
 }
-
 .wrapper h1 {
   font-size: 36px;
   text-align: center;
@@ -70,7 +69,7 @@ body {
   text-decoration: underline;
 }
 
-.wrapper .btn {
+.wrapper.btn {
   width: 100%;
   height: 45px;
   background-color: #fff;
@@ -84,7 +83,7 @@ body {
   color: #333;
 }
 
-.wrapper .register-link {
+.wrapper.register-link {
   font-size: 14.5px;
   text-align: center;
   margin: 20px;
