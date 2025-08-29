@@ -14,18 +14,12 @@ body {
 }
 
 .wrapper {
-<<<<<<< HEAD
-  width: 440px;
-  background-color: pink;
-=======
-  width: 420px;
-  background-color: #000;
->>>>>>> 013f2d6705e206ae9a476dc5e7a1c8ab4ff80277
+  width: 400px;
+  background-color: black;
   color: #fff;
   border-radius: 20px;
   padding: 20px;
 }
-
 .wrapper h1 {
   font-size: 36px;
   text-align: center;
@@ -75,7 +69,7 @@ body {
   text-decoration: underline;
 }
 
-.wrapper .btn {
+.wrapper.btn {
   width: 100%;
   height: 45px;
   background-color: #fff;
@@ -89,7 +83,7 @@ body {
   color: #333;
 }
 
-.wrapper .register-link {
+.wrapper.register-link {
   font-size: 14.5px;
   text-align: center;
   margin: 20px;
@@ -103,21 +97,4 @@ body {
 
 .register-link a:hover {
   text-decoration: underline;
-}
-img {
-  /* height: 220px; */
-  width: 220px;
-  size: 50px;
-  margin-left: -75px;
-  margin-bottom: 20%;
-}
-.imgs {
-  /* height: 220px; */
-  /* width: 100px; */
-  size: 50px;
-  margin-left: 30px;
-  margin-top: -200px;
-  color: #fff;
-  font-size: 30px;
-  font-weight: 700;
 }
