@@ -86,11 +86,7 @@ nav ul li a {
 
 ul li ul.dropdown{
   display: block;
-}
-
-ul li ul.dropdown{
-
- width: 200px;
+   width: 200px;
   background: gray;
   position: absolute;
   display: none;
