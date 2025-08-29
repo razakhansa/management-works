@@ -83,3 +83,24 @@ nav ul li a {
 .container {
   padding: 2px 16px;
 }
+
+ul li ul.dropdown{
+  display: block;
+}
+
+ul li ul.dropdown{
+
+ width: 200px;
+  background: gray;
+  position: absolute;
+  display: none;
+}
+
+ul li a:hover {
+  background-color: #000021;
+  color: white;
+}
+
+ul li:hover .dropdown {
+  display: block;
+}
