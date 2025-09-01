@@ -12,10 +12,9 @@ body {
   background-color: #fff;
 }
 .wrapper {
-  width: 420px;
-  background-color: pink;
-  width: 420px;
-  background-color: skyblue;
+  height: 420px;
+    width: 420px;
+  background-color: rgb(15, 3, 255);
   color: #fff;
   border-radius: 20px;
   padding: 20px;
@@ -87,6 +86,6 @@ body {
 .register-link a:hover {
   text-decoration: underline;
 }
-.imgs {
+/* .imgs {
   margin-top: 50px;
-}
+} */
