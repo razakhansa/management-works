@@ -12,10 +12,17 @@ nav ul {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: saddlebrown;
+  background-color: skyblue;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 170px;
+  width: calc(100% - 170px);
 }
 nav ul li {
-  list-style: none;
+  /* list-style: none; */
+  font-size: 80px;
 }
 
 nav ul li a {
@@ -44,7 +51,7 @@ nav ul li a {
 
 .navbar ul {
   list-style-type: none;
-  background-color: saddlebrown;
+  background-color: skyblue;
   padding: 0;
   margin: 0;
   overflow: hidden;
@@ -64,7 +71,7 @@ nav ul li a {
 
 .navbar li {
   float: right;
-  margin-right: 100px;
+  margin-right: 150px;
 }
 .cards {
   display: flex;
