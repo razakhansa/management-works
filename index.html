@@ -8,13 +8,13 @@
   </head>
   <body>
     <div class="wrapper">
-      <form action="">
+      <form onsubmit="loginUser(event)">
         <h1 class="imgs">Login</h1>
         <div class="input-box">
-          <input type="text" placeholder="Username / Email" required />
+          <input type="email" name="email" placeholder="email" required />
         </div>
         <div class="input-box">
-          <input type="password" placeholder="Password" required />
+          <input type="password" name="password" placeholder="Password" required />
         </div>
         <div class="remember-forgot">
           <label><input type="checkbox" />Remember Me</label>
@@ -27,6 +27,6 @@
         </div>
       </form>
     </div>
-  </body>
+  </body><script src="services/login.js"></script>
 </html>
  
